@@ -2,10 +2,10 @@
 class Database{
     
     // CHANGE THE DB INFO ACCORDING TO YOUR DATABASE
-    private $db_host = 'localhost';
-    private $db_name = 'car_auth_api';
-    private $db_username = 'root';
-    private $db_password = '';
+    private $db_host = 'sql6.freesqldatabase.com';
+    private $db_name = 'sql6512923';
+    private $db_username = 'sql6512923';
+    private $db_password = 'V3AJtawHp2';
     
     public function dbConnection(){
         
