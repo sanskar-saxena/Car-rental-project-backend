@@ -1,1 +1,3 @@
-# car-rental-project-backend
+# Car-rental-project-backend
+
+Backend implemented using PHP and MySQL 
