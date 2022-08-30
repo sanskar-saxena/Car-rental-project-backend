@@ -3,9 +3,9 @@ class Database{
     
     // CHANGE THE DB INFO ACCORDING TO YOUR DATABASE
     private $db_host = 'sql6.freesqldatabase.com';
-    private $db_name = 'sql6512923';
-    private $db_username = 'sql6512923';
-    private $db_password = 'V3AJtawHp2';
+    private $db_name = 'sql6516021';
+    private $db_username = 'sql6516021';
+    private $db_password = '3RVUYGwvzX';
     
     public function dbConnection(){
         
